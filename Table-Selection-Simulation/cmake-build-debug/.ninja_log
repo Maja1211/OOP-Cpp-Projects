@@ -1,0 +1,10 @@
+# ninja log v5
+21	744	7254847369212422	CMakeFiles/untitled4.dir/Greska.cpp.obj	613babd5c7b1a36f
+47	781	7254847369681173	CMakeFiles/untitled4.dir/Lista.cpp.obj	ad2cb5b9fa33616d
+0	901	7254847370419197	CMakeFiles/untitled4.dir/main.cpp.obj	21729680ecfa2626
+781	1495	7254847376828823	CMakeFiles/untitled4.dir/Naredba.cpp.obj	dd30a00cb263e9e1
+747	1517	7254847376928563	CMakeFiles/untitled4.dir/SelektorKolona.cpp.obj	686d4000bee1f546
+901	1642	7254847378304879	CMakeFiles/untitled4.dir/Selektor.cpp.obj	cde0559417b090ee
+1496	2080	7254847382678365	CMakeFiles/untitled4.dir/Tabela.cpp.obj	dd058608122250e9
+1517	2081	7254847382708285	CMakeFiles/untitled4.dir/NaredbaSelekcije.cpp.obj	fd1d4a7d14bbfc90
+2081	2350	7254847385281414	untitled4.exe	2d0892aa4cc9055a

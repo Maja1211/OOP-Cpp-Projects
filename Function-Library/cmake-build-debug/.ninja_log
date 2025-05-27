@@ -1,0 +1,14 @@
+# ninja log v5
+258	2227	7253972773330067	CMakeFiles/untitled1.dir/Argument.cpp.obj	9b764a92aa719c0e
+7	1650	7254183496049207	CMakeFiles/untitled1.dir/main.cpp.obj	f70abd54b0d6374b
+34	1472	7254183494060404	CMakeFiles/untitled1.dir/Lista.cpp.obj	2fee7ae3ee35a445
+45	853	7254112993823279	CMakeFiles/untitled1.dir/Greska.cpp.obj	44549c9e3f5290f0
+61	1570	7254183494432173	CMakeFiles/untitled1.dir/Biblioteka.cpp.obj	e52f82d47e06ec61
+2228	4194	7253972794563491	CMakeFiles/untitled1.dir/Parametar.cpp.obj	7af4ff220d4e342d
+1474	2533	7254183504885356	CMakeFiles/untitled1.dir/Funkcija.cpp.obj	bec6a9bbca9d0bd7
+2533	2972	7254183508953536	untitled1.exe	360f6829549dacc8
+37	1751	7254192350001652	CMakeFiles/untitled1.dir/Lista.cpp.obj	2fee7ae3ee35a445
+63	1824	7254192350482004	CMakeFiles/untitled1.dir/Funkcija.cpp.obj	bec6a9bbca9d0bd7
+6	1890	7254192351429664	CMakeFiles/untitled1.dir/main.cpp.obj	f70abd54b0d6374b
+1753	2695	7254192360391132	CMakeFiles/untitled1.dir/Biblioteka.cpp.obj	e52f82d47e06ec61
+2695	3110	7254192364231355	untitled1.exe	360f6829549dacc8
